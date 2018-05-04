@@ -7,3 +7,10 @@ adding lines
 
 resetting the soft copy
 
+
+function multiple(int a,int b)
+{
+   return a*b;
+}
+	
+
